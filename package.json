@@ -1,0 +1,22 @@
+{
+  "name": "unirankrev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "cids": "^1.1.9",
+    "hardhat-gas-reporter": "^1.0.9",
+    "hardhat-tracer": "^1.1.1"
+  }
+}
